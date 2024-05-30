@@ -12,7 +12,7 @@ habits.
 Here below are some snapshots of the project 
 </p>
 <hr>
-<img src="C:\Users\Tanya\OneDrive\Desktop\1.jpg" alt="Image 1">
+<img src="C:\Users\Tanya\OneDrive\Desktop\1.jpg" alt="Image 1" width="20%"></img>
 
 <!-- <div style = ""> 
 <img src="C:\Users\Tanya\OneDrive\Desktop" alt="" width="20%"/>

@@ -8,7 +8,7 @@ makes it easy for users to manually input and categorize their
 financial transactions, offering clear insights into their spending 
 habits.
 </h3>
-<p>
+<!-- <p>
 Here below are some snapshots of the project 
 </p>
 <hr>
@@ -17,3 +17,4 @@ Here below are some snapshots of the project
 <img src="" alt="" width="32%"/>
 <img src="" alt="" width="32%"/>
 </div>
+ -->

@@ -12,10 +12,8 @@ habits.
 Here below are some snapshots of the project 
 </p>
 <hr>
-<img src="C:\Users\Tanya\OneDrive\Desktop\1.jpg" alt="Image 1" width="20%"></img>
-
-<!-- <div style = ""> 
-<img src="C:\Users\Tanya\OneDrive\Desktop" alt="" width="20%"/>
+<div style = ""> 
+<img src="[C:\Users\Tanya\OneDrive\Desktop](https://lh3.googleusercontent.com/pw/AP1GczPeOA5yyAOl96uyS6a3_TXelvqqjidrl7sNEos-hzBNL4wYT505ZOpobzBq-T6hFZkDLgW4HOAo2xx9k2b68kbZ4pdpgwIMt-tMTtBv8rePcdXaK3rQ=w2400)" alt="" width="20%"/>
 <img src="" alt="" width="32%"/>
 <img src="" alt="" width="32%"/>
-</div> -->
+</div>
